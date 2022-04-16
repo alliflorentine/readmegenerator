@@ -1,6 +1,4 @@
-  ![](https://img.shields.io/badge/License-MIT-green)
-
-  # Readme File Generator
+  # Readme Generator
   # Description
   Read Me Generator app for websites.
   1.[Installation](#Installation)
